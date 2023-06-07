@@ -1,1 +1,1 @@
-Project on bash and shell 
+script directory readme
