@@ -1,2 +1,2 @@
 #!/bin/bash
-cp 255 hello olleh
+cp hello olleh 255
